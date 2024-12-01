@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.ATM;
+package ua.edu.ucu.apps.atm;
 
 public class Banknote50 extends Banknote {
     public Banknote50(Banknote nextItem) {

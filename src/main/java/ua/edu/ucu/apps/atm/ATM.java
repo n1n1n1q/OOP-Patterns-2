@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.ATM;
+package ua.edu.ucu.apps.atm;
 
 public class ATM {
     private Banknote firstItem;

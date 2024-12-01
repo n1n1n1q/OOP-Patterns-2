@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.ATM;
+package ua.edu.ucu.apps.atm;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
